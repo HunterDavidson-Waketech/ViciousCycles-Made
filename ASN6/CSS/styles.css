@@ -1,0 +1,44 @@
+ul{
+    background-color: grey;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 2%;
+}
+
+
+li{
+   
+    display: inline;    
+}
+
+body{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 3%;
+}
+
+.Misty{
+    width: 20%;
+    height: 20%;
+    float: left;
+    padding-right: 2%;
+}
+
+.Footer{
+ display: inline-block;
+ width: 10%;
+ height: 10%;
+
+}
+
+.socal{
+    width: 40%;
+    height: 40%;
+}
+
+*{
+    background-color: ;
+}
